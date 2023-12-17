@@ -1,28 +1,27 @@
-## Hi there 👋, I'm Ahmed Hassan
-### Flutter Developer
-I am a Computer Science Student with some Experience in Flutter Mobile Application & Web, 
-I am a Self-Learner, I Keep Improving myself and advancing my Career in Computer Science by 
-taking Courses and Develop Personal Projects. I am Seeking for any opportunity to do so by either Internship or Real Working Projects.
+<h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
+<h3 align="center">A passionate Flutter developer who is looking for a job</h3>
 
-- 🔭 I’m currently working on My Personal Projects 
-- 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for an Internship or Job as a Flutter Developer
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhassanhamid" alt="ahmedhassanhamid" /></a> </p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedHassanHamid&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=false" style="width: 100%" /></div>  
+<p align="left"> <a href="https://twitter.com/ahmedmccclxxv" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmccclxxv?logo=twitter&style=for-the-badge" alt="ahmedmccclxxv" /></a> </p>
 
-<br/>
+- 🔭 I’m currently working on **Web Scraper API**
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassanHamid&layout=compact&theme=radical" style="width: 100%" /></div> 
+- 🌱 I’m currently learning **nodeJs, express and how to host my app with backend**
 
-<br/>
+- 📫 How to reach me **ahmedhassan1375@outlook.com**
 
+- ⚡ Fun fact **A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.**
 
-### Skills: 
-<img src='https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png' height='40'> <img src='https://1.bp.blogspot.com/--8qgtWK15rE/V2Ij9pPufbI/AAAAAAAAJsw/1iwzcuKIvIcALAvztITv1BBHHqyvv3D1QCK4B/s320/IJ.png' alt='github' height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png' alt='github' height='40'> <img src='https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png' alt='github' height='40'> <img src='https://pub.flutter-io.cn/static/img/dart-logo-400x400.png?hash=i18bc8g4aa2r6vf85lpgro6ml5ltd13g' alt='github' height='40'> <img src='https://ogderek.com/wp-content/uploads/2019/10/mysql.png' alt='github' height='40'> <img src='https://image.flaticon.com/icons/png/512/627/627558.png' alt='github' height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png' alt='github' height='40'> <img src='https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png' alt='github' height='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png' alt='github' height='40'> <img src='https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png' alt='github' height='40'> <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v2.png"/>
-<img src='https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png' alt='github' height='40'>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ahmedmccclxxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedmccclxxv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed hassan" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-### Find me on: 
-<a href="mailto:ahmedhassan13751@gmail.cpm"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_(2020).svg/1200px-Gmail_icon_(2020).svg.png' alt='mail' height='40'></a> [<img src='https://lh3.googleusercontent.com/dWGBdDzI8mxlZqXT3qBt4eWmCaWLq-OXfZYea1hu6ODmMj1cLIeQak6Gsecn4zJoflE-' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-hassan-256722208/)  [<img src='https://d.ibtimes.co.uk/en/full/1487456/twitter-logo.png' alt='twitter' height='40'>](https://twitter.com/AhmedMCCCLXXV) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhassanhamid&show_icons=true&locale=en&layout=compact" alt="ahmedhassanhamid" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhassanhamid&show_icons=true&locale=en" alt="ahmedhassanhamid" /></p>
