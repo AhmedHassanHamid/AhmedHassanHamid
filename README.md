@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Ahmed+Hassan+%7C+Backend+Engineer;System+Administrator;Automation+Specialist;Building+Structured+Chaos..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Ahmed+Hassan;Backend+Engineer;Automation+Specialist;Building+Structured+Chaos..." />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@ COFFEE_LEVEL: CRITICAL
 
 ---
 
-## 📡 LIVE CODING STATUS
+## 📡 LIVE ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHassanHamid&theme=react-dark&hide_border=true&area=true" />
@@ -38,40 +38,15 @@ COFFEE_LEVEL: CRITICAL
 
 ---
 
-## 📊 WAR STATISTICS
+## 🧠 HACKER WISDOM ROTATION
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedHassanHamid&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassanHamid&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=First,+solve+the+problem.;Then,+write+the+code.;Automation+is+power.;Backend+is+where+logic+lives.;Make+it+work.+Make+it+right.+Make+it+fast.;Discipline+beats+motivation." />
 </p>
 
 ---
 
-## 🔥 CONTRIBUTION STREAK
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedHassanHamid&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 SNAKE PROTOCOL
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedHassanHamid/AhmedHassanHamid/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🧠 RANDOM DEV WISDOM (LIVE API)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache_seconds=1" />
-</p>
-
----
-
-## 😂 HACKER MEME STREAM (REFRESH FOR CHAOS)
+## 😂 PROGRAMMING MEME STREAM
 
 <p align="center">
   <img src="https://meme-api.com/gimme/programming?cacheBust=1" width="420"/>
@@ -84,7 +59,7 @@ COFFEE_LEVEL: CRITICAL
 ```diff
 + Building Web Scraper Intelligence Engine
 + Mastering Node.js Deployment
-+ Automating Everything That Breathes
++ Automating Infrastructure
 - Sleeping Normally
 ```
 
