@@ -46,14 +46,6 @@ COFFEE_LEVEL: CRITICAL
 
 ---
 
-## 😂 PROGRAMMING MEME STREAM
-
-<p align="center">
-  <img src="https://meme-api.com/gimme/programming?cacheBust=1" width="420"/>
-</p>
-
----
-
 ## 🚀 CURRENT MISSION
 
 ```diff
