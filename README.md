@@ -38,35 +38,33 @@
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedHassanHamid&theme=radical&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHassanHamid&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassanHamid&theme=radical&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedHassanHamid&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHassanHamid&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedHassanHamid&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedHassanHamid&theme=tokyonight&no-bg=true&column=7" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-hassan-256722208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Hassan" height="30" width="40" /></a>
-<a href="https://twitter.com/AhmedMCCCLXXV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="AhmedMCCCLXXV" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-hassan-256722208/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahmed Hassan" /></a>
+<a href="https://twitter.com/AhmedMCCCLXXV" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="AhmedMCCCLXXV" /></a>
 </p>
 
 ---
 
-### ✍️ Random Dev Wisdom
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Wisdom (Refresh for new quote!)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 <p align="center">
-  <img src='https://randommeme-five.vercel.app/' width="300" />
+  <img src='https://ctf-api.vercel.app/api/meme' width="350" />
 </p>
